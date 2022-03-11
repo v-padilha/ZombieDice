@@ -32,8 +32,8 @@ O próximo jogador inicia seu turno.
 
 Se você escolher continuar, você não devolve os dados
 ao tubo. Sempre que você rolar dados, você vai rolar três
-por vez. Primeiro, você deverá pegar todas as Pegadas
-que estejam à sua frente, depois, pegue dados su cientes
+por vez. Primeiro, você deverá pegar todos os passos
+que estejam à sua frente, depois, pegue dados suficientes
 do tubo (se for preciso) até completar três e role-os
 novamente.
 
@@ -41,13 +41,13 @@ Depois de pegar novos dados, você não pode decidir
 parar,você tem que rolar.
 
 Separe os Cérebros e os Tiros como explicado
-acima. Se você rolar a terceira Espingarda seu turno acaba
+acima. Se você tomar o terceiro tiro, seu turno acaba
 e você não marca pontos. Caso contrário, você pode parar
 e marcar pontos, ou rolar os dados novamente...
 
 Se você não tiver 3 dados sobrando no tubo, anote
 quantos Cérebros você tinha e coloque esses dados de
-volta no tubo (mantenha as Espingardas na mesa). É só
+volta no tubo (mantenha os tiros na mesa). É só
 continuar.
 
 
